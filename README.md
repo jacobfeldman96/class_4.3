@@ -6,7 +6,7 @@ Today's class was a review of some of the more advanced applications of Pandas. 
 
 It is vital to understand the data with which one is working generally and for index setting. Setting an index is exceptionally important because should one need to concatenate multiple data frames into one compiled data frame, it will be difficult to analyze the data if the frames are not consistently formatted with a unique key as the overall index. 
 
-iloc is used in cases where there is only an integer, i.e. known index, loc is used when you have a string and get_loc is used to find a particular row entry in a column. 
+iloc is used in cases where there is only an integer, i.e. known index, loc is used when you have a string and get_loc is used to find a particular row entry in a column or vice versa. 
 
 Binning is a very important command that allows data to be passed into smaller categories for further in depth analysis. 
 
